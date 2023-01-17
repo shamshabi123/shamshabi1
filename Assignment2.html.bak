@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Assignment2</title>
+<style>
+h1{
+background-image:("https://thumbs.dreamstime.com/b/cute-children-baby-background-white-clouds-blue-wooden-144810002.jpg");
+}
+#A
+{
+border-width: 2 px;
+border-color: rgb(158, 26, 26);
+border-style: solid;
+margin: left -6px;
+padding: 50px;
+width: 75px;
+background: linear-gradient(45deg, rgba(145, 255, 0, 0.578), rgb(70, 6, 28));            
+}
+#B
+{
+border-width: 2 px;
+border-color: rgb(185, 67, 67);
+border-style: solid;
+margin-left: 173px;
+padding: 50px;
+width: 75px;
+background: linear-gradient(45deg, rgba(112, 107, 107, 0.66), rgb(118, 12, 67));            
+margin-top: -23px;
+}
+#C
+{
+border-width: 2 px;
+border-color: rgb(185, 67, 67);
+border-style: solid;
+margin-left: 352px;
+padding: 50px;
+width: 75px;
+background: linear-gradient(45deg,rgba(83, 83, 236, 0.747),rgba(0, 0, 0, 0.73));            
+margin-top: -23px;
+}
+#D
+{
+border-width: 2 px;
+border-color: rgb(185, 67, 67);
+border-style: solid;
+margin-left: 531px;
+padding: 50px;
+width: 75px;
+background: linear-gradient(45deg, rgba(179, 105, 105, 0.605), rgba(215, 11, 215, 0.825));            
+margin-top: -23px;
+}
+#E
+{
+border-width: 2 px;
+border-color: rgb(158, 148, 174);
+border-style: solid;
+margin-left: 709px;
+padding: 50px;
+width: 75px;
+background: linear-gradient(45deg, red, rgb(19, 81, 19));            
+margin-top: -127px;
+}
+#F
+{
+border-width: 2 px;
+border-color: rgb(185, 165, 67);
+border-style: solid;
+margin-left: 889px;
+padding: 50px;
+width: 75px;
+background: linear-gradient(45deg, ghostwhite, rgb(110, 171, 40));            
+margin-top: -230px;
+}
+#G
+{
+border-width: 2 px;
+border-color: rgb(112, 67, 185);
+border-style: solid;
+margin-left: 1068px;
+padding: 50px;
+width: 75px;
+background: linear-gradient(45deg, red, green);            
+margin-top: -229px;
+}
+#H
+{
+border-width: 2 px;
+border-color: rgb(112, 67, 185);
+border-style: solid;
+margin-left: 1246px;
+padding: 50px;
+width: 75px;
+background: linear-gradient(45deg, rgba(21, 3, 3, 0.442), rgba(128, 0, 64, 0.727));            
+margin-top: -229px;
+}
+</style>
+</head>
+<body>
+<h1 id="A"></h1>
+<h1 id="B"></h1>
+<h1 id="C"></h1>
+<h1 id="D"></h1>
+<h1 id="E"></h1>
+<h1 id="F"></h1>
+<h1 id="G"></h1>
+<h1 id="H"></h1>
+</body>
+</html>
