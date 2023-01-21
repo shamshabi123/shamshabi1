@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>Application</title>
+<style>
+body{
+margin:200px 0 0 375px;
+boder-size:50px;
+border-
+}
+fieldset{
+text-align:center;
+width:fit-content;
+font-weight:900;
+boder-size:50px;
+font-style:italic;
+}
+legend{
+border-width:50px;
+}
+</style>
+</head>
+<body>
+<Form>
+<fieldset>
+<legend>Application</legend>
+<h1 align="center">Application</h1>
+<table>
+<tr>
+<td>
+<label for="text">Full Name</label>
+</td>
+<td>
+<input type="name" id="text"><br>
+</td>
+</tr>
+<tr>
+<td>
+<label for="text">Father Name</label>
+</td>
+<td>
+<input type="name" id="text"><br>
+</td>
+</tr>
+<tr>
+<td>
+<label for="text">Mother Name</label>
+</td>
+<td>
+<input type="name" id="text"><br>
+</td>
+</tr>
+<tr>
+<td>
+<label for="DOB">DOB of Birth</label>
+</td>
+<td>
+<label for="DOB">Day</label>
+<input type="" id="dob"><br>
+</td>
+<td>
+<label for="DOB">Month</label>
+<input type="" id="dob"><br>
+</td>
+<td>
+<label for="DOB">Year</label>
+<input type=" id="dob"><br>
+</td>
+</tr>
+<tr>
+<td> 
+<label for="gender">Gender</label>
+</td>
+<td>
+<select name="" id="gender">
+<option value=""></option>
+<option value="">male</option>
+<option value="">female</option>
+<option value="">others</option>
+</td>
+</tr>
+<tr>
+<td>
+<label for="Email">Email Address</label>
+</td>
+<td>
+<input type="Email" id="Email"><br>
+<td>
+</tr>
+<tr>
+<td>
+<label for="Number">Mobile Number</label>
+</td>
+<td>
+<input type="Number" id="Number"><br>
+</td>
+</tr>
+<tr>
+<td>
+<label for="Addres">Address</label>
+</td>
+<td>
+<input type="Street Address"  value="City"><br>
+<input type="Street Address"  value="Street Address"><br>
+<input type="Street Address"  value="City"><br>
+<input type="Street Address"  value="Postal/zip code"><br>
+<input type="Street Address"  value="Street Line"><br>
+<input type="Street Address"  value="State/provisce"><br>
+<input type="Street Address"  value="Country"><br>
+</td>
+</tr>
+<tr>
+<td>
+<label for="text">Course name</label>
+</td>
+<td>
+<input type="Number" id="text"><br>
+</td>
+</tr>
+<tr>
+<td>
+<label for="education">Type of Education</label>
+</td>
+<td>
+<input type="Number" id="education"><br>
+</td>
+</tr>
+</body>
+</html>
